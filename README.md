@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akash Sharma
-- 👀 I’m interested in learning new tech,developing websites and server development
+- 👀 I’m interested in learning new tech,developing websites,learning and handling front-end and back-end with problem solving. 
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me on akash179sharma@gmail.com
