@@ -41,7 +41,7 @@ Python | Golang | Node.js | FastAPI | Docker | Kubernetes | Redis | Elasticsearc
 
 ## 🔹 Contact Me
 
-- 📧 [akash179sharma@mail.com](mailto:akash179sharma@mail.com)
+- 📧 [akash179sharma@gmail.com](mailto:akash179sharma@gmail.com)
 - 🔹 [LinkedIn](https://www.linkedin.com/in/akash-sharma-226618193)
 - 🔹 [Github](https://github.com/ashu1709)
 
